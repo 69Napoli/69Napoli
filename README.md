@@ -89,7 +89,7 @@ I'm a self-taught passionate **Full-Stack Developer & Digital Forensics Speciali
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="https://discord.gg/gvproductions" target="_blank">
+  <a href="https://discord.gg/gvprod" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://github.com/69Napoli" target="_blank">
