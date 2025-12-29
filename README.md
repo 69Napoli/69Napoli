@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hello!+I'm+Napoli+%F0%9F%91%8B;Security+Developer+%26+Forensics+Specialist;Creator+of+Checker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=750&lines=Hello!+I'm+Napoli+%F0%9F%91%8B;Security+Developer+%26+Forensics+Specialist;Creator+of+Checker" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🛡️ Building secure gaming communities, one line of code at a time</h3>
