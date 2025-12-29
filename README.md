@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hello!+I'm+69Napoli+%F0%9F%91%8B;Security+Developer+%26+Forensics+Specialist;Admin+of+GV+Productions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hello!+I'm+Napoli+%F0%9F%91%8B;Security+Developer+%26+Forensics+Specialist;Creator+of+Checker" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🛡️ Building secure gaming communities, one line of code at a time</h3>
@@ -16,10 +16,10 @@
 
 I'm a self-taught passionate **Full-Stack Developer & Digital Forensics Specialist** from Romania 🇷🇴, currently based in Belgium 🇧🇪
 
-- 🏢 **Admin & Checker Developer** at [GV Productions](https://github.com/69Napoli)
-- 🛡️ Specialized in **anti-cheat systems** and **threat detection** for gaming communities
-- 🔍 Building **forensic tools** to keep FiveM servers clean and fair
-- 🎮 Passionate about **gaming security** and **community protection**
+- 🔍 **Creator of Checker** — Discord threat detection system for gaming communities
+- 🎮 **Admin & Developer** at **GV Productions**
+- 🛡️ Specialized in **anti-cheat systems** and **threat detection** for FiveM servers
+- 🖥️ Building **forensic tools** to keep gaming communities clean and fair
 - 💬 Ask me about **FiveM Development, Anti-Cheat Solutions, Digital Forensics**
 - ⚡ Fun fact: I turn cheaters into memories 😎
 
@@ -38,7 +38,7 @@ I'm a self-taught passionate **Full-Stack Developer & Digital Forensics Speciali
 
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -49,15 +49,21 @@ I'm a self-taught passionate **Full-Stack Developer & Digital Forensics Speciali
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=69Napoli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="GitHub Stats" />
+  <a href="https://github.com/69Napoli">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=69Napoli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=69Napoli&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <a href="https://github.com/69Napoli">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=69Napoli&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=69Napoli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="Top Languages" />
+  <a href="https://github.com/69Napoli">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=69Napoli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=8" alt="Top Languages"/>
+  </a>
 </p>
 
 ---
@@ -65,7 +71,17 @@ I'm a self-taught passionate **Full-Stack Developer & Digital Forensics Speciali
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=69Napoli&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+  <a href="https://github.com/69Napoli">
+    <img src="https://github-profile-trophy.vercel.app/?username=69Napoli&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
+  </a>
+</p>
+
+---
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=69Napoli&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -73,7 +89,7 @@ I'm a self-taught passionate **Full-Stack Developer & Digital Forensics Speciali
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="https://discord.gg/gvprod" target="_blank">
+  <a href="https://discord.gg/gvproductions" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://github.com/69Napoli" target="_blank">
