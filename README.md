@@ -96,7 +96,7 @@ I'm a self-taught passionate **Full-Stack Developer & Digital Forensics Speciali
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
    <a/>
     <a href="https://69napoli.dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white" />
   </a>
 </p>
 
