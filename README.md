@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Napoli&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Web%20%26%20Product%20Development%20%C2%B7%20Security%20Engineering&descSize=18&descAlignY=75" width="100%" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=00FFB3&center=true&vCenter=true&width=800&lines=Web+%26+Product+Developer;Security+Engineering+%26+Digital+Forensics;Building+SaaS%2C+Desktop+Apps+%26+Detection+Tools)](https://69napoli.dev)
 
 [![Website](https://img.shields.io/badge/69napoli.dev-00FFB3?style=for-the-badge&logo=vercel&logoColor=black)](https://69napoli.dev)
 [![YARA.X](https://img.shields.io/badge/YARA.X-Live-0D1117?style=for-the-badge&logo=virustotal&logoColor=00FFB3)](https://www.yara-x.com/)
-[![Checker](https://img.shields.io/badge/Checker-Live-0D1117?style=for-the-badge&logo=shieldsdotio&logoColor=00FFB3)](https://checker.gv-productions.com/dashboard)
+[![Checker](https://img.shields.io/badge/Checker-Live-0D1117?style=for-the-badge&logoColor=00FFB3)](https://checker.gv-productions.com/dashboard)
 [![Discord](https://img.shields.io/badge/GV_Productions-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gvprod)
 
 <br>
@@ -13,7 +13,7 @@ Software developer working across two disciplines: **web & product development**
 
 I design and ship complete products — polished frontends, SaaS platforms, and desktop applications — and I build the security tooling that protects online platforms: threat intelligence, forensic analysis, and detection systems.
 
-Founder of **GV Productions** · Based in Belgium 🇧🇪
+**Developer & Admin at GV Productions** · Based in Belgium 🇧🇪
 
 </div>
 
@@ -111,6 +111,6 @@ Real-time identification of high-risk users across online communities — cross-
 **Freelance & consulting** — web development, product builds, security work
 [69napoli.dev](https://69napoli.dev) · [GV Productions](https://discord.gg/gvprod)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB3&height=100&section=footer" width="100%" />
 
 </div>
