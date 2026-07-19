@@ -1,5 +1,4 @@
 <img width="1600" height="420" alt="banner" src="https://github.com/user-attachments/assets/8095bdee-9708-4623-817d-3428bc6a9461" />
-<img src="assets/banner.png" width="100%" alt="Napoli — Web & Product Development × Security Engineering" />
 
 <br>
 
